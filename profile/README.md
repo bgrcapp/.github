@@ -26,5 +26,5 @@
 
 | KIM DONGJIN |
 | :---: |
-| ![](https://github.com/feralshining.png) |
+| <img src="https://github.com/feralshining.png" width="150"/> |
 | <p align="center"><a href="https://github.com/feralshining">@feralshining</a></p> |
