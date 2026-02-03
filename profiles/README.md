@@ -3,9 +3,9 @@
 >_"급식 인원이 매번 달라 준비할 양을 가늠하기 어려워요."_<br>
 >_"종이 명부에 수기로 작성하다 보니 출석 확인과 통계 관리가 너무 번거롭습니다."_
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=807c7c&text=BGRCAPP&subtitle=QR%20Attendance%20System%20for%20Welfare%20Center&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51" width="1000"/>
-</p>
+<!-- <p align="center">
+<img src="" width="1000"/>
+</p> -->
 
 ## 📰 Official News
 **[북구장애인종합복지관 공식 소식]**
